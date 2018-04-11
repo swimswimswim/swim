@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: pink;
+}
+h1 {
+    color: CYAN;
+    text-align: center;
+    font-style: italic;
+    font-size:  4em; /* 30px/16=1.875em */;
+}
+h2 {
+    font-size: 3.5em; /* 30px/16=1.875em */
+    color: GOLD;
+    font-style: normal;
+}
+h3 {
+    font-size: 2.5em; /* 30px/16=1.875em */
+    color: PURPLE;
+    font-style: normal;
+    font-style: oblique;
+}
+</style>
+<title>KFashion</title>
+</head>
+<body>
+<center> <h1>Welcome to Trends</h1></center>
+<H2> A little about KFashion... </H2>
+<h3> South Korea's fashion is very unique and distinct which influences worldwide trends.</h3>
+<h3> Korean celebrities have a real influence in fashion.  </h3>
+
+<center> <h2>Here are some styles and trends </h2></center>
+<center><h3> A famous Korean singer, IU, has a unique sense of fashion that influenced many of her fans to also follow her styles. </h3></center>
+<center><img src="http://doramakun.ru/thumbs/users/7581/PHOTO-GALLERY/IU/CeCi-Korea-November-2013-Extra/IU05-690.jpg"></center>
+
+</body>
+</html>
