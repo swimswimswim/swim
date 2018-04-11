@@ -13,7 +13,7 @@ h1 {
 }
 h2 {
     font-size: 3.5em; /* 30px/16=1.875em */
-    color: GOLD;
+    color: purple;
     font-style: normal;
 }
 h3 {
